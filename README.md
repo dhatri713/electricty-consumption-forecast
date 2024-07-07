@@ -31,6 +31,7 @@ Methodology
 
     Modeling:
         Implemented and evaluated various statistical models including Vector Autoregression (VAR) and Vector Autoregressive Moving Average (VARMA).
+        Also implemented using Prophet by Meta
         Explored deep learning models with a focus on Long Short-Term Memory (LSTM) networks, which have shown superior performance.
 
 Results
